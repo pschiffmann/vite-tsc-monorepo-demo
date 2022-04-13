@@ -1,0 +1,8 @@
+{
+  "name": "@scope-1/my-shared-config",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./tsconfig-base.json": "./tsconfig-base.json"
+  }
+}

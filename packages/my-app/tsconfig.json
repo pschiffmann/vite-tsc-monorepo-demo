@@ -1,0 +1,8 @@
+{
+  "extends": "@scope-1/my-shared-config/tsconfig-base.json",
+  "include": ["src/**/*"],
+  "references": [{ "path": "../@scope-2/my-lib" }],
+  "compilerOptions": {
+    "noEmit": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "workspaces": [
+    "packages/@scope-1/*",
+    "packages/@scope-2/*",
+    "packages/my-app"
+  ]
+}
